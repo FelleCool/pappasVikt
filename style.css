@@ -1,0 +1,10 @@
+.con{
+    display: flexbox;
+}
+
+.item{
+    margin: 10px;
+    width: 85vw;
+    height: 80px;
+    font-size: 65px;
+}
